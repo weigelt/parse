@@ -1,0 +1,3 @@
+[submodule "parse_shallowNLP"]
+	path = parse_shallowNLP
+	url = git@code.ipd.kit.edu:weigelt/parse_shallowNLP.git
