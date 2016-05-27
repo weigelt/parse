@@ -1,3 +1,27 @@
 [submodule "parse_shallowNLP"]
 	path = parse_shallowNLP
 	url = git@code.ipd.kit.edu:weigelt/parse_shallowNLP.git
+[submodule "senna_wrapper"]
+	path = senna_wrapper
+	url = git@code.ipd.kit.edu:lama/senna_wrapper.git
+[submodule "parse_bios"]
+	path = parse_bios
+	url = git@code.ipd.kit.edu:weigelt/parse_bios.git
+[submodule "parse_dummy"]
+	path = parse_dummy
+	url = git@code.ipd.kit.edu:weigelt/parse_dummy.git
+[submodule "parse_pipelineStageDummy"]
+	path = parse_pipelineStageDummy
+	url = git@code.ipd.kit.edu:weigelt/parse_pipelineStageDummy.git
+[submodule "parse_parent"]
+	path = parse_parent
+	url = git@code.ipd.kit.edu:weigelt/parse_parent.git
+[submodule "parse_luna"]
+	path = parse_luna
+	url = git@code.ipd.kit.edu:weigelt/parse_luna.git
+[submodule "parse_bundle"]
+	path = parse_bundle
+	url = git@code.ipd.kit.edu:weigelt/parse_bundle.git
+[submodule "parse_condition_detection"]
+	path = parse_condition_detection
+	url = git@code.ipd.kit.edu:weigelt/parse_condition_detection.git

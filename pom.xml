@@ -8,6 +8,19 @@
   <name>Sebastian Weigelt's Famous® Parse™</name>
 
   <modules>
+    <module>parse_parent/parent</module>
+
+    <module>parse_luna</module>
+
+    <module>parse_bios</module>
+    <module>senna_wrapper</module>
     <module>parse_shallowNLP</module>
+
+    <module>parse_condition_detection</module>
+
+    <module>parse_dummy</module>
+    <module>parse_pipelineStageDummy</module>
+
+    <module>parse_bundle</module>
   </modules>
 </project>
