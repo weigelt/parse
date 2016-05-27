@@ -13,9 +13,6 @@
 [submodule "parse_pipelineStageDummy"]
 	path = parse_pipelineStageDummy
 	url = git@code.ipd.kit.edu:weigelt/parse_pipelineStageDummy.git
-[submodule "parse_parent"]
-	path = parse_parent
-	url = git@code.ipd.kit.edu:weigelt/parse_parent.git
 [submodule "parse_luna"]
 	path = parse_luna
 	url = git@code.ipd.kit.edu:weigelt/parse_luna.git
