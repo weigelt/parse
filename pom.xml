@@ -6,7 +6,11 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>pom</packaging>
 	<name>Sebastian Weigelt's Famous® Parse™</name>
-
+	<parent>
+		<groupId>edu.kit.ipd.parse</groupId>
+		<artifactId>parent</artifactId>
+		<version>0.0.1-SNAPSHOT</version>
+	</parent>
 	<modules>
 		<!--module>parse_parent/parent</module-->
 
@@ -15,7 +19,7 @@
 		<module>parse_bios</module>
 		<module>senna_wrapper</module>
 		<module>parse_shallowNLP</module>
-
+		<module>parse_asr</module>
 		<module>parse_condition_detection</module>
 
 		<module>parse_dummy</module>
@@ -151,96 +155,4 @@
 			<url>http://bob.ipd.kit.edu/nexus/content/repositories/snapshots</url>
 		</snapshotRepository>
 	</distributionManagement>
-	<dependencyManagement>
-		<dependencies>
-			<dependency>
-				<groupId>org.slf4j</groupId>
-				<artifactId>slf4j-api</artifactId>
-				<version>1.7.10</version>
-			</dependency>
-			<dependency>
-				<groupId>org.slf4j</groupId>
-				<artifactId>slf4j-log4j12</artifactId>
-				<version>1.7.10</version>
-			</dependency>
-			<dependency>
-				<groupId>junit</groupId>
-				<artifactId>junit</artifactId>
-				<version>4.11</version>
-			</dependency>
-			<dependency>
-				<groupId>de.tub.tfs</groupId>
-				<artifactId>agg</artifactId>
-				<version>2.1</version>
-			</dependency>
-			<dependency>
-				<groupId>edu.kit.ipd.parse</groupId>
-				<artifactId>parseBios</artifactId>
-				<version>1.0-SNAPSHOT</version>
-			</dependency>
-			<dependency>
-				<groupId>org.kohsuke.metainf-services</groupId>
-				<artifactId>metainf-services</artifactId>
-				<version>1.6</version>
-				<optional>true</optional>
-			</dependency>
-			<dependency>
-				<groupId>commons-io</groupId>
-				<artifactId>commons-io</artifactId>
-				<version>2.4</version>
-			</dependency>
-			<dependency>
-				<groupId>org.apache.commons</groupId>
-				<artifactId>commons-lang3</artifactId>
-				<version>3.4</version>
-			</dependency>
-			<dependency>
-				<groupId>edu.kit.ipd.parse</groupId>
-				<artifactId>luna</artifactId>
-				<version>0.1.9-SNAPSHOT</version>
-				<classifier>javadoc</classifier>
-			</dependency>
-			<dependency>
-				<groupId>edu.kit.ipd.parse</groupId>
-				<artifactId>luna</artifactId>
-				<version>0.1.9-SNAPSHOT</version>
-			</dependency>
-			<dependency>
-				<groupId>edu.kit.ipd.parse</groupId>
-				<artifactId>ShallowNLP</artifactId>
-				<version>0.0.3-SNAPSHOT</version>
-			</dependency>
-			<dependency>
-				<groupId>org.apache.opennlp</groupId>
-				<artifactId>opennlp-tools</artifactId>
-				<version>1.5.3</version>
-			</dependency>
-			<dependency>
-				<groupId>edu.stanford.nlp</groupId>
-				<artifactId>stanford-corenlp</artifactId>
-				<version>3.5.2</version>
-			</dependency>
-			<dependency>
-				<groupId>edu.stanford.nlp</groupId>
-				<artifactId>stanford-corenlp</artifactId>
-				<classifier>models</classifier>
-				<version>3.5.2</version>
-			</dependency>
-			<dependency>
-				<groupId>edu.kit.ipd.parse</groupId>
-				<artifactId>senna-wrapper</artifactId>
-				<version>0.0.2-SNAPSHOT</version>
-			</dependency>
-			<dependency>
-				<groupId>commons-cli</groupId>
-				<artifactId>commons-cli</artifactId>
-				<version>1.3.1</version>
-			</dependency>
-			<dependency>
-				<groupId>net.sourceforge.owlapi</groupId>
-				<artifactId>owlapi-distribution</artifactId>
-				<version>5.0.2</version>
-			</dependency>
-		</dependencies>
-	</dependencyManagement>
 </project>
