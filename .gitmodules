@@ -29,3 +29,9 @@
 [submodule "parse_ner"]
 	path = parse_ner
 	url = git@code.ipd.kit.edu:weigelt/parse_ner.git
+[submodule "parse_srl"]
+	path = parse_srl
+	url = git@code.ipd.kit.edu:weigelt/parse_srl.git
+[submodule "parse_graph_builder"]
+	path = parse_graph_builder
+	url = git@code.ipd.kit.edu:weigelt/parse_graph_builder.git
