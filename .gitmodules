@@ -26,3 +26,6 @@
 	path = parse_asr
 	url = git@code.ipd.kit.edu:weigelt/parse_asr.git
 
+[submodule "parse_ner"]
+	path = parse_ner
+	url = git@code.ipd.kit.edu:weigelt/parse_ner.git
