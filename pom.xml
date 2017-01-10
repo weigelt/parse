@@ -26,5 +26,7 @@
 		<module>parse_pipelineStageDummy</module>
 
 		<module>parse_bundle</module>
+		<module>parse_srl</module>
+		
 	</modules>
 </project>
