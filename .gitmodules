@@ -44,3 +44,6 @@
 [submodule "parse_context"]
 	path = parse_context
 	url = git@code.ipd.kit.edu:weigelt/parse_context.git
+[submodule "parse_action_analyzer"]
+	path = parse_action_analyzer
+	url = git@code.ipd.kit.edu:weigelt/parse_action_analyzer.git
