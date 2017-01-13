@@ -28,7 +28,5 @@
 		<module>parse_srl</module>
 		<module>parse_graph_builder</module>
 		<module>parse_bundle</module>
-		<module>parse_srl</module>
-		
 	</modules>
 </project>
