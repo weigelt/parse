@@ -15,16 +15,18 @@
 		<!--module>parse_parent/parent</module -->
 
 		<module>parse_luna</module>
-
+		<module>parse_context</module>
 		<module>parse_bios</module>
 		<module>senna_wrapper</module>
 		<module>parse_shallowNLP</module>
 		<module>parse_asr</module>
 		<module>parse_condition_detection</module>
-
+		<module>parse_coref</module>
 		<module>parse_dummy</module>
 		<module>parse_pipelineStageDummy</module>
-
+		<module>parse_ner</module>
+		<module>parse_srl</module>
+		<module>parse_graph_builder</module>
 		<module>parse_bundle</module>
 	</modules>
 </project>
