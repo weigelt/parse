@@ -38,3 +38,9 @@
 [submodule "parse_recorder"]
 	path = parse_recorder
 	url = git@code.ipd.kit.edu:weigelt/parse_recorder.git
+[submodule "parse_coref"]
+	path = parse_coref
+	url = git@code.ipd.kit.edu:weigelt/parse_coref.git
+[submodule "parse_context"]
+	path = parse_context
+	url = git@code.ipd.kit.edu:weigelt/parse_context.git
