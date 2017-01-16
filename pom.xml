@@ -29,5 +29,6 @@
 		<module>parse_graph_builder</module>
 		<module>parse_bundle</module>
 		<module>parse_action_analyzer</module>
+		<module>parse_wsd</module>
 	</modules>
 </project>
