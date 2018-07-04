@@ -30,5 +30,8 @@
 		<module>parse_bundle</module>
 		<module>parse_action_analyzer</module>
 		<module>parse_wsd</module>
+		<module>parse_loop_detection</module>
+		<module>parse_concurrent_action_dection</module>
+		<module>parse_ontology_connection</module>
 	</modules>
 </project>
