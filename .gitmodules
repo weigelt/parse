@@ -57,4 +57,7 @@
 	url = git@code.ipd.kit.edu:weigelt/parse_concurrent_action_dection.git
 [submodule "parse_ontology_connection"]
         path = parse_ontology_connection
-        url = git@code.ipd.kit.edu:weigelt/parse_ontology_connection.git
+	url = git@code.ipd.kit.edu:weigelt/parse_ontology_connection.git
+[submodule "parse_tools"]
+        path = parse_tools
+        url = git@code.ipd.kit.edu:weigelt/parse_tools.git
