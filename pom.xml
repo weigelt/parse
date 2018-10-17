@@ -33,5 +33,7 @@
 		<module>parse_loop_detection</module>
 		<module>parse_concurrent_action_dection</module>
 		<module>parse_ontology_connection</module>
+		<module>parse_recorder</module>
+		<module>parse_tools</module>
 	</modules>
 </project>
