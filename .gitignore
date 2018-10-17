@@ -16,3 +16,13 @@ thesis.pdf
 .settings
 target/
 ~$*
+parse_web
+parse_private
+parse_loop_conc_evaluator
+parse_parent
+parse.wiki
+dialog_agent
+Abschlussarbeiten
+WordSequenceAligner
+commons-text
+java-speech-api
