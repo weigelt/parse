@@ -11,6 +11,13 @@
 		<artifactId>parent</artifactId>
 		<version>1.0.1</version>
 	</parent>
+	<repositories>
+		<repository>
+			<id>ipdNexus-public-releases</id>
+			<name>IPD-Repository</name>
+			<url>http://bob.ipd.kit.edu/nexus/repository/maven-public-releases</url>
+		</repository>
+	</repositories>
 	<modules>
 		<!--module>parse_parent/parent</module -->
 
