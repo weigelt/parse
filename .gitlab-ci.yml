@@ -1,6 +1,6 @@
 master:
     script:
-        - mvn deploy -B -N
+        - mvn deploy:deploy -B -N
     tags:
         - mvn
     only:
