@@ -3,13 +3,13 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>edu.kit.ipd.parse</groupId>
 	<artifactId>parse</artifactId>
-	<version>0.0.3-SNAPSHOT</version>
+	<version>0.0.3</version>
 	<packaging>pom</packaging>
 	<name>Sebastian Weigelt's Famous® Parse™</name>
 	<parent>
 		<groupId>edu.kit.ipd.parse</groupId>
 		<artifactId>parent</artifactId>
-		<version>1.0.1</version>
+		<version>1.1.1</version>
 	</parent>
 	<repositories>
 		<repository>
