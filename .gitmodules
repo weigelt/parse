@@ -61,3 +61,6 @@
 [submodule "parse_tools"]
         path = parse_tools
 	url = git@code.ipd.kit.edu:weigelt/parse_tools.git
+[submodule "parse_method_synthesizer"]
+	path = parse_method_synthesizer
+	url = git@code.ipd.kit.edu:parse/parse_method_synthesizer.git
