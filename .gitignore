@@ -27,3 +27,5 @@ WordSequenceAligner
 commons-text
 java-speech-api
 *.swp
+*.iml
+.idea
