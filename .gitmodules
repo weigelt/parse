@@ -67,3 +67,15 @@
 [submodule "parse_timeout_watchdog"]
 	path = parse_timeout_watchdog
 	url = git@code.ipd.kit.edu:parse/parse_timeout_watchdog.git
+[submodule "parse_ast_synth"]
+	path = parse_ast_synth
+	url = git@code.ipd.kit.edu:parse/parse_ast_synth.git
+[submodule "parse_ast_extractor"]
+	path = parse_ast_extractor
+	url = git@code.ipd.kit.edu:parse/parse_ast_extractor.git
+[submodule "parse_code_gen"]
+	path = parse_code_gen
+	url = git@code.ipd.kit.edu:parse/parse_code_gen.git
+[submodule "parse_code_injector"]
+	path = parse_code_injector
+	url = git@code.ipd.kit.edu:parse/parse_code_injector.git
