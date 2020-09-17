@@ -1,7 +1,17 @@
 master:
-    script:
-        - mvn deploy:deploy -B -N -U
-    tags:
-        - mvn
-    only:
-        - master
+  script:
+    - mvn deploy:deploy -B -N -U
+  tags:
+    - mvn
+  only:
+    - master
+
+branches:
+  script:
+    - mvn deploy:deploy -B -N -U
+  tags:
+    - mvn
+  only:
+    - branches
+  except:
+    - master
