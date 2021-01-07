@@ -82,3 +82,6 @@
 [submodule "parse_change_watchdog"]
 	path = parse_change_watchdog
 	url = git@code.ipd.kit.edu:parse/parse_change_watchdog.git
+[submodule "parse_cycle_watchdog"]
+	path = parse_cycle_watchdog
+	url = git@code.ipd.kit.edu:parse/parse_cycle_watchdog.git
