@@ -47,5 +47,11 @@
         <module>parse_timeout_watchdog</module>
         <module>parse_change_watchdog</module>
         <module>parse_cycle_watchdog</module>
+        <module>parse_wiki_wsd_classifier</module>
+        <module>parse_wiki_wsd_models</module>
+        <module>parse_wiki_wsd</module>
+        <module>parse_topic_extraction_common</module>
+        <module>parse_topic_extraction</module>
+        <module>parse_ontology_selection</module>
     </modules>
 </project>
