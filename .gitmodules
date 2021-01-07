@@ -85,3 +85,6 @@
 [submodule "parse_cycle_watchdog"]
 	path = parse_cycle_watchdog
 	url = git@code.ipd.kit.edu:parse/parse_cycle_watchdog.git
+[submodule "parse_wiki_wsd_classifier"]
+	path = parse_wiki_wsd_classifier
+	url = git@code.ipd.kit.edu:parse/parse_wiki_wsd_classifier.git
