@@ -79,3 +79,6 @@
 [submodule "parse_code_injector"]
 	path = parse_code_injector
 	url = git@code.ipd.kit.edu:parse/parse_code_injector.git
+[submodule "parse_change_watchdog"]
+	path = parse_change_watchdog
+	url = git@code.ipd.kit.edu:parse/parse_change_watchdog.git
