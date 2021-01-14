@@ -53,5 +53,6 @@
         <module>parse_topic_extraction_common</module>
         <module>parse_topic_extraction</module>
         <module>parse_ontology_selection</module>
+        <module>parse_teaching_detector</module>
     </modules>
 </project>
