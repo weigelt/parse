@@ -40,6 +40,3 @@
 [submodule "parse_ontology_selection"]
 	path = parse_ontology_selection
 	url = git@code.ipd.kit.edu:parse/parse_ontology_selection.git
-[submodule "parse_teaching_detector"]
-	path = parse_teaching_detector
-	url = git@code.ipd.kit.edu:parse/parse_teaching_detector.git
