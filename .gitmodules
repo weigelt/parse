@@ -7,9 +7,6 @@
 [submodule "parse_luna"]
 	path = parse_luna
 	url = git@code.ipd.kit.edu:weigelt/parse_luna.git
-[submodule "parse_recorder"]
-	path = parse_recorder
-	url = git@code.ipd.kit.edu:weigelt/parse_recorder.git
 [submodule "parse_ontology_connection"]
         path = parse_ontology_connection
 	url = git@code.ipd.kit.edu:weigelt/parse_ontology_connection.git
