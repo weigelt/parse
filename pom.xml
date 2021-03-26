@@ -154,6 +154,12 @@
             </dependency>
             <dependency>
                 <groupId>edu.kit.ipd.parse</groupId>
+                <artifactId>luna</artifactId>
+                <version>0.7.1</version>
+                <classifier>javadoc</classifier>
+            </dependency>
+            <dependency>
+                <groupId>edu.kit.ipd.parse</groupId>
                 <artifactId>ontology_connection</artifactId>
                 <version>0.1.0</version>
             </dependency>
