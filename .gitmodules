@@ -40,9 +40,6 @@
 [submodule "parse_topic_extraction_common"]
 	path = parse_topic_extraction_common
 	url = git@code.ipd.kit.edu:parse/parse_topic_extraction_common.git
-[submodule "parse_topic_extraction"]
-	path = parse_topic_extraction
-	url = git@code.ipd.kit.edu:parse/parse_topic_extraction.git
 [submodule "parse_ontology_selection"]
 	path = parse_ontology_selection
 	url = git@code.ipd.kit.edu:parse/parse_ontology_selection.git
