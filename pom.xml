@@ -7,52 +7,29 @@
     <version>0.0.5-SNAPSHOT</version>
     <packaging>pom</packaging>
     <name>Sebastian Weigelt's Famous® Parse™</name>
-    <parent>
-        <groupId>edu.kit.ipd.parse</groupId>
-        <artifactId>parent</artifactId>
-        <version>1.1.4-SNAPSHOT</version>
-    </parent>
+    <properties>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+        <maven.compiler.source>14</maven.compiler.source>
+        <maven.compiler.target>14</maven.compiler.target>
+        <project.build.optimize>true</project.build.optimize>
+    </properties>
+    <!--    <parent>-->
+    <!--        <groupId>edu.kit.ipd.parse</groupId>-->
+    <!--        <artifactId>parent</artifactId>-->
+    <!--        <version>1.1.4-SNAPSHOT</version>-->
+    <!--    </parent>-->
     <repositories>
         <repository>
-            <id>ipdNexus-public-releases</id>
+            <id>ipdNexus-public-all</id>
             <name>IPD-Repository</name>
             <url>http://bob.ipd.kit.edu/nexus/repository/maven-public-all</url>
         </repository>
     </repositories>
     <modules>
-        <!--module>parse_parent/parent</module -->
-
         <module>parse_luna</module>
-        <module>parse_context</module>
-        <module>parse_bios</module>
-        <module>senna_wrapper</module>
-        <module>parse_shallowNLP</module>
-        <module>parse_asr</module>
-        <module>parse_condition_detection</module>
-        <module>parse_coref</module>
         <module>parse_dummy</module>
         <module>parse_pipelineStageDummy</module>
-        <module>parse_ner</module>
-        <module>parse_srl</module>
-        <module>parse_graph_builder</module>
-        <module>parse_bundle</module>
-        <module>parse_action_analyzer</module>
-        <module>parse_wsd</module>
-        <module>parse_loop_detection</module>
-        <module>parse_concurrent_action_dection</module>
         <module>parse_ontology_connection</module>
-        <module>parse_recorder</module>
         <module>parse_tools</module>
-        <module>parse_method_synthesizer</module>
-        <module>parse_timeout_watchdog</module>
-        <module>parse_change_watchdog</module>
-        <module>parse_cycle_watchdog</module>
-        <module>parse_wiki_wsd_classifier</module>
-        <module>parse_wiki_wsd_models</module>
-        <module>parse_wiki_wsd</module>
-        <module>parse_topic_extraction_common</module>
-        <module>parse_topic_extraction</module>
-        <module>parse_ontology_selection</module>
-        <module>parse_teaching_detector</module>
     </modules>
 </project>
