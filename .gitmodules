@@ -34,6 +34,3 @@
 [submodule "parse_method_synthesizer"]
 	path = parse_method_synthesizer
 	url = git@code.ipd.kit.edu:parse/parse_method_synthesizer.git
-[submodule "parse_ontology_selection"]
-	path = parse_ontology_selection
-	url = git@code.ipd.kit.edu:parse/parse_ontology_selection.git
