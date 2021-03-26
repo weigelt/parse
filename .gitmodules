@@ -22,9 +22,6 @@
 [submodule "parse_loop_detection"]
         path = parse_loop_detection
 	url = git@code.ipd.kit.edu:weigelt/parse_loop_detection.git
-[submodule "parse_concurrent_action_dection"]
-        path = parse_concurrent_action_dection
-	url = git@code.ipd.kit.edu:weigelt/parse_concurrent_action_dection.git
 [submodule "parse_ontology_connection"]
         path = parse_ontology_connection
 	url = git@code.ipd.kit.edu:weigelt/parse_ontology_connection.git
