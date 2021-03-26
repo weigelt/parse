@@ -146,6 +146,22 @@
                 <artifactId>commons-lang3</artifactId>
                 <version>3.12</version>
             </dependency>
+            <!--PARSE dependencies-->
+            <dependency>
+                <groupId>edu.kit.ipd.parse</groupId>
+                <artifactId>luna</artifactId>
+                <version>0.7.1</version>
+            </dependency>
+            <dependency>
+                <groupId>edu.kit.ipd.parse</groupId>
+                <artifactId>ontology_connection</artifactId>
+                <version>0.1.0</version>
+            </dependency>
+            <dependency>
+                <groupId>edu.kit.ipd.parse</groupId>
+                <artifactId>tools</artifactId>
+                <version>0.0.3</version>
+            </dependency>
         </dependencies>
     </dependencyManagement>
 
