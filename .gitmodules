@@ -34,9 +34,6 @@
 [submodule "parse_context"]
 	path = parse_context
 	url = git@code.ipd.kit.edu:weigelt/parse_context.git
-[submodule "parse_wsd"]
-	path = parse_wsd
-	url = git@code.ipd.kit.edu:weigelt/parse_wsd.git
 [submodule "parse_loop_detection"]
         path = parse_loop_detection
 	url = git@code.ipd.kit.edu:weigelt/parse_loop_detection.git
