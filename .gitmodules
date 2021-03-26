@@ -1,9 +1,6 @@
 [submodule "parse_shallowNLP"]
 	path = parse_shallowNLP
 	url = git@code.ipd.kit.edu:weigelt/parse_shallowNLP.git
-[submodule "senna_wrapper"]
-	path = senna_wrapper
-	url = git@code.ipd.kit.edu:lama/senna_wrapper.git
 [submodule "parse_bios"]
 	path = parse_bios
 	url = git@code.ipd.kit.edu:weigelt/parse_bios.git
