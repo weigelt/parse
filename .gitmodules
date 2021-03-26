@@ -70,9 +70,6 @@
 [submodule "parse_cycle_watchdog"]
 	path = parse_cycle_watchdog
 	url = git@code.ipd.kit.edu:parse/parse_cycle_watchdog.git
-[submodule "parse_wiki_wsd_models"]
-	path = parse_wiki_wsd_models
-	url = git@code.ipd.kit.edu:parse/parse_wiki_wsd_models.git
 [submodule "parse_topic_extraction_common"]
 	path = parse_topic_extraction_common
 	url = git@code.ipd.kit.edu:parse/parse_topic_extraction_common.git
