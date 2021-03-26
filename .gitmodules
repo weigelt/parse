@@ -16,9 +16,6 @@
 [submodule "parse_condition_detection"]
 	path = parse_condition_detection
 	url = git@code.ipd.kit.edu:weigelt/parse_condition_detection.git
-[submodule "parse_asr"]
-	path = parse_asr
-	url = git@code.ipd.kit.edu:weigelt/parse_asr.git
 [submodule "parse_srl"]
 	path = parse_srl
 	url = git@code.ipd.kit.edu:weigelt/parse_srl.git
