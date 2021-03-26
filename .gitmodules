@@ -10,9 +10,6 @@
 [submodule "parse_luna"]
 	path = parse_luna
 	url = git@code.ipd.kit.edu:weigelt/parse_luna.git
-[submodule "parse_bundle"]
-	path = parse_bundle
-	url = git@code.ipd.kit.edu:weigelt/parse_bundle.git
 [submodule "parse_condition_detection"]
 	path = parse_condition_detection
 	url = git@code.ipd.kit.edu:weigelt/parse_condition_detection.git
