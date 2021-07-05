@@ -3,7 +3,7 @@
 	url = git@github.com:weigelt/parse_agent_dummy.git
 [submodule "parse_pipelineStageDummy"]
 	path = parse_pipelineStageDummy
-	url = git@code.ipd.kit.edu:weigelt/parse_pipelineStageDummy.git
+	url = git@github.com:weigelt/parse_pipelinestage_dummy.git
 [submodule "parse_luna"]
 	path = parse_luna
 	url = git@code.ipd.kit.edu:weigelt/parse_luna.git
