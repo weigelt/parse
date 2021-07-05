@@ -12,4 +12,4 @@
 	url = git@code.ipd.kit.edu:weigelt/parse_ontology_connection.git
 [submodule "parse_tools"]
         path = parse_tools
-	url = git@code.ipd.kit.edu:weigelt/parse_tools.git
+	url = git@github.com:weigelt/parse_tools.git
