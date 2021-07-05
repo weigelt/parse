@@ -1,6 +1,6 @@
 [submodule "parse_dummy"]
 	path = parse_dummy
-	url = git@code.ipd.kit.edu:weigelt/parse_dummy.git
+	url = git@github.com:weigelt/parse_agent_dummy.git
 [submodule "parse_pipelineStageDummy"]
 	path = parse_pipelineStageDummy
 	url = git@code.ipd.kit.edu:weigelt/parse_pipelineStageDummy.git
