@@ -53,18 +53,11 @@
     </build>
 
     <distributionManagement>
-        <!-- use the following if you're not using a snapshot version. -->
         <repository>
-            <id>ipdNexus-repo</id>
-            <name>IPD-Tichy-Releases</name>
-            <url>http://bob.ipd.kit.edu/nexus/repository/maven-releases</url>
+            <id>github</id>
+            <name>GitHub Packages</name>
+            <url>https://maven.pkg.github.com/weigelt/parse</url>
         </repository>
-        <!-- use the following if you ARE using a snapshot version. -->
-        <snapshotRepository>
-            <id>ipdNexus-snapshots</id>
-            <name>IPD-Tichy-Snapshots</name>
-            <url>http://bob.ipd.kit.edu/nexus/repository/maven-snapshots</url>
-        </snapshotRepository>
     </distributionManagement>
 
     <dependencyManagement>
